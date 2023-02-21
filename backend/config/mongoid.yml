@@ -1,0 +1,6 @@
+development:
+  clients:
+    default:
+      uri: mongodb+srv://admin:YuXdZPxTw91L2m0I@wsd.1ygpihv.mongodb.net/notes_development?retryWrites=true&w=majority
+      options:
+        server_selection_timeout: 5

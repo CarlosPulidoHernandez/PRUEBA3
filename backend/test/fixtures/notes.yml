@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  content: MyString
+  creationDate: 2023-02-21 15:02:38
+  imagePath: MyString
+  isShared: false
+
+two:
+  title: MyString
+  content: MyString
+  creationDate: 2023-02-21 15:02:38
+  imagePath: MyString
+  isShared: false
